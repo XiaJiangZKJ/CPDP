@@ -16,6 +16,7 @@ Title: The progress in cross-project defect prediction: A revisit and further th
      MASTER: Multi-source transfer weighted ensemble learning for multiple sources cross-project defect prediction.
      (7)tsusc2024 represents for S. Qiu et al.'s 
      Defect prediction via tree-based encoding with hybrid granularity for software sustainability.
+     
      CPDP/scripts    
      This folder stores all codes of ManualDown, other used CPDP methods and our analyzing approaches.
 
