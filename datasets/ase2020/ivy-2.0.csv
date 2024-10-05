@@ -476,4 +476,3 @@ loc,Project,Version,Class,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,dam,moa,mfa,c
 193,ivy,2,org.apache.ivy.plugins.repository.vsftp.VsftpRepository$2,2,1,0,1,22,0,1,0,1,0,1,1,0,0.5833333,0,0,93,-,0,-,-,-,-,"[void _init_(org.apache.ivy.plugins.repository.vsftp.VsftpRepository, StringBuffer, boolean, boolean[], java.io.IOException[]) - 0, public void run() - 12]",12,6,0
 159,ivy,2,org.apache.ivy.ant.IvyCacheTask,3,5,2,16,38,3,2,0,1,2,0,0,0.9811321,1,0,0,52,11,3,-,-,-,-,"[protected java.util.List getArtifactReports() - 1, private java.util.Collection getAllArtifactReports() - 1, public void _init_() - 0]",1,0.6666667,0
 10,ivy,2,org.apache.ivy.plugins.parser.m2.PomModuleDescriptorBuilder$5,2,1,0,3,4,1,1,2,1,2,0,0,0,0.6666667,0,0,4,-,0,-,-,-,-,"[void _init_() - 0, public void addMappingConfs(org.apache.ivy.core.module.descriptor.DefaultDependencyDescriptor dd, boolean isOptional) - 1]",1,0.5,0
-101010,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,40

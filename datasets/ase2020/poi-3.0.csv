@@ -530,4 +530,3 @@ loc,Project,Version,Class,wmc,dit,noc,cbo,rfc,lcom,ca,ce,npm,lcom3,dam,moa,mfa,c
 42,poi,3,org.apache.poi.hssf.record.formula.MemErrPtg,5,3,0,4,12,10,1,3,5,1.25,0,0,0.84210527,0.36,2,2,7.2,4,3,-,1,2,-,"[ public Object clone() - 1, public void _init_(org.apache.poi.hssf.record.RecordInputStream in) - 0, public String toFormulaString(org.apache.poi.hssf.model.Workbook book) - 1, public void writeBytes(byte[] array, int offset) - 1, public void _init_() - 0]",1,0.6,0
 1,poi,3,org.apache.poi.hssf.usermodel.HSSFShapeContainer,1,1,0,3,1,0,3,0,1,2,0,0,0,1,0,0,0,2,2,-,1,0,-,[ public abstract java.util.List getChildren() - 1],1,1,0
 33,poi,3,org.apache.poi.hssf.util.HSSFColor$LAVENDER,5,2,0,1,6,8,1,1,4,1.0833334,0,0,0.5714286,1,0,0,5,-,0,-,-,0,-,"[ public short[] getTriplet() - 1, public void _init_() - 0, public short getIndex() - 1, static void _clinit_() - 0, public String getHexString() - 1]",1,0.6,0
-133357,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,281
