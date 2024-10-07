@@ -22,7 +22,7 @@ Title: The progress in cross-project defect prediction: A revisit and further th
 
 2. Execution commands
        In order to make it easier to obtain the results, one can run it according to the following command regulation.
-       (1) run CPDP.R and SoftEngDataAna.R to get the results of ManualDown. 
+       (1) run CPDP.R and util.R to get the results of ManualDown. 
        (2) run plot.R to get the box plots and line charts between ManualDown and other CPDP methods.
        (3) run test.R to analyze the statistical and practical effect of the difference between ManualDown and other CPDP methods.
 
