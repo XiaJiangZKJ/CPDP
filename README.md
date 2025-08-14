@@ -1,6 +1,6 @@
 ## Title: The progress in cross-project defect prediction: A revisit and further thinking
 
-## 1. Folders Introduction
+## 1. Folder Introduction
 
 - [`CPDP/datasets`](https://github.com/XiaJiangZKJ/CPDP/tree/main/datasets) This folder stores all datasets used in our experiment.
 
